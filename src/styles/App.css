@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+  color: #2d2d2d;
+}
+
+main section {
+  min-height: 100vh;
+  padding: 6rem 2rem 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
